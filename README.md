@@ -1,4 +1,5 @@
 Creative Bakery Landing
+
 Demo: https://viktoriamyhailiak.github.io/Creative-bakery-landing/
 
 Figma: https://www.figma.com/design/Blpg4iapsI7fRqJeSp6DvK/KatVR-_FE-students?node-id=1-2985&t=Am1qhPdejlKEMe3j-0
